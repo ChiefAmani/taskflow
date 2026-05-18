@@ -3,6 +3,12 @@
 ## Product/Service Overview
 TaskFlow is a dead-simple task management app designed specifically for freelancers. It offers a fast, no-login solution with local data storage, eliminating the complexity and overhead of traditional task managers. Its core value proposition is extreme simplicity, speed, and privacy, allowing freelancers to manage tasks without distraction or data concerns.
 
+## Unique Selling Propositions (USPs) and Messaging Pillars
+- **No-Login, Instant Productivity:** Start managing tasks immediately without account creation or setup friction.
+- **Ultimate Privacy with Local Data:** Your data stays on your device, ensuring complete control and peace of mind.
+- **Blazing Fast & Uncluttered:** Designed for speed and extreme simplicity, cutting out unnecessary features and distractions.
+- **Built for Freelancers:** Tailored to the unique needs of independent professionals seeking efficiency and focus.
+
 ## Target Audience Personas
 
 ### Persona 1: "The Overwhelmed Organizer"
